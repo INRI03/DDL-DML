@@ -28,6 +28,13 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![diagramm](https://github.com/INRI03/DDL-DML/blob/main/03.png)
 ---
 # Задание 2.
+
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца, в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц.
 
 ![table_pkeys](https://github.com/INRI03/DDL-DML/blob/main/04.png)
+---
+# Задание 3.*
+
+3.1 Уберите у пользователя sys_temp права на внесение, изменение и удаление данных из базы sakila.
+
+3.2 Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
